@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+}
+
+.body-wrapper {
+  width: 100%;
+}
+
+.row {
+  height: 271px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.square-wrapper {
+  margin: 40px 0;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  border: 1.5px solid black;
+  filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 31%));
+  border-radius: 5px;
+}
+
+.square:hover {
+  filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 70%));
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.black {
+  background-color: black;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.white {
+  background-color: white;
+}
+
+.row_a-1 {
+  order: 1;
+}
+
+.row_a-2 {
+  order: 2;
+}
+
+.row_a-3 {
+  order: 3;
+}
+
+.row_b-1 {
+  order: 4;
+}
+
+.row_b-2 {
+  order: 5;
+}
+
+.row_b-3 {
+  order: 6;
+}
+
+.row_c-1 {
+  order: 7;
+}
+
+.row_c-2 {
+  order: 8;
+}
+
+.row_c-3 {
+  order: 9;
+}
