@@ -14,13 +14,13 @@ body {
   align-items: center;
 }
 
-.square-wrapper {
+.element-wrapper {
   margin: 40px 0;
   margin-left: 12%;
   margin-right: 12%;
 }
 
-.square {
+.element {
   width: 100px;
   height: 100px;
   filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 11%));
@@ -29,7 +29,7 @@ body {
   animation: animation-signs 2s infinite;
 }
 
-.square:hover {
+.element:hover {
   filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 30%));
   cursor: pointer;
   background-size: 130%;
