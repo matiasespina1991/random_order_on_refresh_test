@@ -5,5 +5,5 @@ Testing a way to achieve the most lightweight script that will set a random orde
 Demo:
 
 <p align="center">
-![](https://media3.giphy.com/media/qNXln9YbYbHDggV6Bi/giphy.gif)
+<img src="https://media3.giphy.com/media/qNXln9YbYbHDggV6Bi/giphy.gif" alt="" /> 
 </p>
