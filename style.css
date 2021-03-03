@@ -105,3 +105,34 @@ body {
   background: url(./images/svg/uva.png);
   background-size: contain;
 }
+
+.bottom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 110px;
+}
+
+.refresh-button {
+  border: 3px solid #6b748c61;
+  border-radius: 10px;
+  height: 60px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.refresh-button:hover {
+  cursor: pointer;
+  border: 3px solid black;
+}
+
+.refresh-button p {
+  text-align: center;
+  color: #948791;
+}
+
+.refresh-button:hover p {
+  color: black;
+}
