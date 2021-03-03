@@ -1,5 +1,11 @@
 body {
   margin: 0;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
 }
 
 .body-wrapper {
@@ -7,7 +13,7 @@ body {
 }
 
 .main-content {
-  height: 271px;
+  margin: 3% 20% 0 20%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -15,26 +21,26 @@ body {
 }
 
 .element-wrapper {
-  margin: 40px 0;
-  margin-left: 12%;
-  margin-right: 12%;
+  flex: 30%;
+  display: flex;
+  align-items: center;
+  height: 158px;
+  justify-content: center;
 }
 
 .element {
-  width: 100px;
-  height: 100px;
-  filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 11%));
+  width: 90px;
+  height: 90px;
+  filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 60%));
   border-radius: 5px;
-  transition: 0.2s;
   animation: animation-signs 2s infinite;
+  background-position: center;
 }
 
 .element:hover {
-  filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 30%));
   cursor: pointer;
-  background-size: 130%;
-  background-color: white;
-  animation: animation-signs 6s infinite;
+  background-size: 108%;
+  background-position: center;
 }
 
 @keyframes animation-signs {
@@ -56,46 +62,46 @@ body {
 }
 
 .el-a {
-  background: url(./images/svg/aries-symbol.svg);
+  background: url(./images/svg/banana.png);
   background-size: contain;
 }
 
 .el-b {
-  background: url(./images/svg/cancer-astrological-symbol.svg);
+  background: url(./images/svg/coco.png);
   background-size: contain;
 }
 
 .el-c {
-  background: url(./images/svg/capricorn-1.svg);
+  background: url(./images/svg/kiwi.png);
   background-size: contain;
 }
 
 .el-d {
-  background: url(./images/svg/gemini-zodiac-sign-symbol.svg);
+  background: url(./images/svg/granada.png);
   background-size: contain;
 }
 
 .el-e {
-  background: url(./images/svg/leo-lion-head-side.svg);
+  background: url(./images/svg/avocado.png);
   background-size: contain;
 }
 
 .el-f {
-  background: url(./images/svg/libra-scale-balance-symbol.svg);
+  background: url(./images/svg/frutilla.png);
   background-size: contain;
 }
 
 .el-g {
-  background: url(./images/svg/pisces-astrological-sign-symbol.svg);
+  background: url(./images/svg/sandia.png);
   background-size: contain;
 }
 
 .el-h {
-  background: url(./images/svg/sagittarius-sign.svg);
+  background: url(./images/svg/manzana.png);
   background-size: contain;
 }
 
 .el-i {
-  background: url(./images/svg/taurus.svg);
+  background: url(./images/svg/uva.png);
   background-size: contain;
 }
