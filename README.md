@@ -4,6 +4,6 @@ Testing a way to achieve the most lightweight script that will set a random orde
 
 Demo:
 
-<div style="text-align: center">
+<p align="center">
 ![](https://media3.giphy.com/media/qNXln9YbYbHDggV6Bi/giphy.gif)
-</div>
+</p>
