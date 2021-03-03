@@ -6,7 +6,7 @@ body {
   width: 100%;
 }
 
-.row {
+.main-content {
   height: 271px;
   display: flex;
   flex-wrap: wrap;
@@ -55,83 +55,47 @@ body {
   }
 }
 
-.red {
+.el-a {
   background: url(./images/svg/aries-symbol.svg);
   background-size: contain;
 }
 
-.blue {
+.el-b {
   background: url(./images/svg/cancer-astrological-symbol.svg);
   background-size: contain;
 }
 
-.yellow {
+.el-c {
   background: url(./images/svg/capricorn-1.svg);
   background-size: contain;
 }
 
-.green {
+.el-d {
   background: url(./images/svg/gemini-zodiac-sign-symbol.svg);
   background-size: contain;
 }
 
-.orange {
+.el-e {
   background: url(./images/svg/leo-lion-head-side.svg);
   background-size: contain;
 }
 
-.violet {
+.el-f {
   background: url(./images/svg/libra-scale-balance-symbol.svg);
   background-size: contain;
 }
 
-.black {
+.el-g {
   background: url(./images/svg/pisces-astrological-sign-symbol.svg);
   background-size: contain;
 }
 
-.grey {
+.el-h {
   background: url(./images/svg/sagittarius-sign.svg);
   background-size: contain;
 }
 
-.white {
+.el-i {
   background: url(./images/svg/taurus.svg);
   background-size: contain;
 }
-
-/* .row_a-1 {
-  order: 1;
-}
-
-.row_a-2 {
-  order: 2;
-}
-
-.row_a-3 {
-  order: 3;
-}
-
-.row_b-1 {
-  order: 4;
-}
-
-.row_b-2 {
-  order: 5;
-}
-
-.row_b-3 {
-  order: 6;
-}
-
-.row_c-1 {
-  order: 7;
-}
-
-.row_c-2 {
-  order: 8;
-}
-
-.row_c-3 {
-  order: 9;
-} */
