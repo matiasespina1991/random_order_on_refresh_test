@@ -11,6 +11,9 @@ Testing a way to achieve the most lightweight script that will set a random orde
 
 <p align="center">
 <img src="https://media3.giphy.com/media/qNXln9YbYbHDggV6Bi/giphy.gif" alt="" /> 
-  https://matiasespina1991.github.io/random_order_on_refresh_test/
 
+
+</p>
+<p align="center">
+https://matiasespina1991.github.io/random_order_on_refresh_test/
 </p>
