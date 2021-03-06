@@ -27,4 +27,4 @@ URL: https://matiasespina1991.github.io/random_order_on_refresh/
 </p>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/qNXln9YbYbHDggV6Bi/giphy.gif" alt="" /> 
+<img src="https://s4.gifyu.com/images/outputa5934d6022499ad2.gif" alt="" /> 
