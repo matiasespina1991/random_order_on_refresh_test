@@ -1,11 +1,10 @@
-# Function that shuffles the order of elements in an HTML page
+# Function that shuffles the order of Flexbox elements in an HTML page
 
 
 
 Testing a way to achieve the most lightweight script that will set a random order of certain objects with each refresh.
 
 
-    
 
 ### Demo:
 
