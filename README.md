@@ -1,4 +1,4 @@
-# Test: Random order of the elements on every refresh
+# Function that shuffles the order of elements in an HTML page
 
 
 
