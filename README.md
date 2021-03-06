@@ -5,7 +5,7 @@
 Testing a way to achieve a lightweight javascript function that will set a random order of certain HTML elements on each refresh.
 
 `
-var elements = document.getElementsByClassName('elementClass');
+var elements = document.getElementsByClassName(elementClass);
 
     function shuffleElementsOrder() {
     for (var i=0;i<elements.length;i++){
