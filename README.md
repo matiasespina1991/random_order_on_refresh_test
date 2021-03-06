@@ -23,7 +23,7 @@ shuffleElementsOrder()
 
 </p>
 <p align="center">
-https://matiasespina1991.github.io/random_order_on_refresh/
+URL: https://matiasespina1991.github.io/random_order_on_refresh/
 </p>
 
 <p align="center">
