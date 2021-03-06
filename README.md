@@ -14,5 +14,5 @@ Testing a way to achieve the most lightweight script that will set a random orde
 
 </p>
 <p align="center">
-https://matiasespina1991.github.io/random_order_on_refresh_test/
+https://matiasespina1991.github.io/random_order_on_refresh/
 </p>
