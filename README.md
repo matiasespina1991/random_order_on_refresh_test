@@ -2,7 +2,7 @@
 
 
 
-Testing a way to achieve the most lightweight script that will set a random order of certain objects with each refresh.
+Testing a way to achieve a lightweight javascript function that will set a random order of certain HTML elements on each refresh.
 
 
 
