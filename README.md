@@ -22,4 +22,4 @@ shuffleElementsOrder()
 
 URL: https://matiasespina1991.github.io/random_order_on_refresh/
 
-<img style="width:700px;" src="https://s4.gifyu.com/images/outputec5cea5db9670451.gif" alt="" /> 
+<img width="700px;" src="https://s4.gifyu.com/images/outputec5cea5db9670451.gif" alt="" /> 
