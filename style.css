@@ -123,6 +123,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: 0.2s;
+  user-select: none;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
 }
 
 .shuffle-button:hover {
@@ -137,10 +141,17 @@ body {
   letter-spacing: 0.5px;
   font-family: system-ui;
   margin-left: 13px;
+  user-select: none;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
 }
 
 .shuffle-button:hover p {
   color: black;
+}
+
+.shuffle-button:active {
+  background-color: #00000010;
 }
 
 .shuffle-icon {
