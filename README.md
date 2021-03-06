@@ -6,7 +6,6 @@ Testing a way to achieve a lightweight javascript function that will set a rando
 
 `
 var elements = document.getElementsByClassName(elementClass);
-
     function shuffleElementsOrder() {
     for (var i=0;i<elements.length;i++){
         var randomNumber = Math.floor(Math.random() * elements.length);
