@@ -20,11 +20,6 @@ shuffleElementsOrder()
 
 ### Demo:
 
-
-</p>
-<p align="center">
 URL: https://matiasespina1991.github.io/random_order_on_refresh/
-</p>
 
-<p align="center">
-<img src="https://s4.gifyu.com/images/outputa5934d6022499ad2.gif" alt="" /> 
+<img src="https://s4.gifyu.com/images/outputec5cea5db9670451.gif" alt="" /> 
