@@ -4,7 +4,7 @@
 
 Testing a way to achieve a lightweight javascript function that will set a random order of certain HTML elements on each refresh.
 
-1) Set Flexbox layout on the elements to be shuffled.
+1) Set display:flexbox on the elements to be shuffled.
 ```css
 .elementsClass {
 display: flexbox;
