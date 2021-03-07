@@ -1,4 +1,4 @@
-## Function that shuffles the order of Flexbox elements in an HTML page
+## Function that shuffles the order of certain elements with the same class in an HTML page
 
 
 
