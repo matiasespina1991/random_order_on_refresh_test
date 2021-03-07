@@ -6,23 +6,23 @@ Testing a way to achieve a lightweight javascript function that will set a rando
 
 1) Set 'display: flexbox' on the elements to be shuffled.
 ```css
-.elementsClass {
+.objectsClass {
 display: flexbox;
 }
 ```
 
 2) Use the following script.
 ```javascript
-var elements = document.getElementsByClassName('elementsClass');`
+var objectsArray = document.getElementsByClassName('objectsClass');`
 
-    function shuffleElementsOrder() {
-    for (var i=0;i<elements.length;i++){
-        var randomNumber = Math.floor(Math.random() * elements.length);
+    function shuffleOrder() {
+    for (var i=0;i<objectsArray.length;i++){
+        var randomNumber = Math.floor(Math.random() * objectsArray.length);
         elements[i].style.order = randomNumber;
         }
     }
 
-shuffleElementsOrder()
+shuffleOrder()
 ```
 
 
