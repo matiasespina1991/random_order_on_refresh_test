@@ -13,7 +13,7 @@ display: flexbox;
 
 2) Use the following script.
 ```javascript
-var objectsArray = document.getElementsByClassName('objectsClass');`
+var objectsArray = document.getElementsByClassName('objectsClass');
 
     function shuffleOrder() {
     for (var i=0;i<objectsArray.length;i++){
